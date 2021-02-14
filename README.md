@@ -4,20 +4,22 @@ This folder contains one part of the semester long project done for the Big Data
 
 
 Technologies used:
-Apache Airflow for ETL Pipeline generation
+1. Apache Airflow for ETL Pipeline generation
 
-Apache Spark (PySpark, Spark SQL) and Pandas for processing and transforming data
+2. Apache Spark (PySpark, Spark SQL) and Pandas for processing and transforming data
 
-pyspark.ml library used for the resolution time prediction
+3. pyspark.ml library used for the resolution time prediction
 
-Tableau used for Data Visualization
+4. Tableau used for Data Visualization
 
-HTML, CSS, Flask used for creating the front end
+5. HTML, CSS, Flask used for creating the front end
 
 
 Problem Statement-
 
 Predict the complaint resolution time for 311 complaints in the city of New York based on Complaint Type, Zip code, and day of the week- using Logisctic Regression.
+
 Analsis of correlation between 311 complaints and the demographics of the region, zip code etc to derive insights
+
 Interactive visualizations in Tableau for analysis, and a web page front end was created using Flask, where the pickled version of trained model was used.
 
