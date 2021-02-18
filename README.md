@@ -1,6 +1,6 @@
 # Big-Data-ML--NYC-311-data-analysis-and-Prediction-of-Resolution-Time
 
-This folder contains one part of the semester long project done for the Big Data course taught by Prof. Juan Rodriguez.
+This folder contains ONE PART of the semester long project done for the Big Data course taught by Prof. Juan Rodriguez.
 
 
 Technologies used:
